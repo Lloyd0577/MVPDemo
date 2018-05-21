@@ -446,4 +446,3 @@ public class MainActivity extends AppCompatActivity {
 
 ![演示](http://upload-images.jianshu.io/upload_images/3057657-ac0f5e24d5fdd501.gif?imageMogr2/auto-orient/strip)
 
-代码已上传github：[MVPDemo](https://github.com/Lloyd0577/MVPDemo)
